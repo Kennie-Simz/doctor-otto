@@ -13,5 +13,7 @@
 
 (d). Singly Linked List: Creates a singly linked list and traverses through it with a function, printing out the output.
 
+(e). Inserting a node into a linked list - before head, after a given node and at the end. Can be modified accordingly.
+
 ------------------------------------------------------------------------------------
 - Author: Kennedy Simiyu
