@@ -5,9 +5,13 @@
 - enter : ./a and follow through prompt
 
 #### Project Files
-(a). Halfsquare: Prints out the shape of a right angled square
-(b). Population: Calculates the estimated population using a given formula
-(c). Mario: Creates Mario's staircase steps in ascending order
+(a). Halfsquare: Prints out the shape of a right angled square.
+
+(b). Population: Calculates the estimated population using a given formula.
+
+(c). Mario: Creates Mario's staircase steps in ascending order.
+
+(d). Singly Linked List: Creates a singly linked list and traverses through it with a function, printing out the output.
 
 ------------------------------------------------------------------------------------
 - Author: Kennedy Simiyu
